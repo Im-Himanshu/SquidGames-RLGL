@@ -1,0 +1,7 @@
+/videos/
+/ffmpeg-7.1-essentials_build/
+/download_videos/
+
+*.avi
+*.exe
+
